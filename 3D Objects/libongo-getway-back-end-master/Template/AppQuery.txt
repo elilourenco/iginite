@@ -1,0 +1,36 @@
+
+
+#region pesquisar dados de tabelaName 
+
+Field<ListGraphType<tabelaNameType>> (
+  "searchtabelaName",
+    arguments : new QueryArguments (
+      new QueryArgument<StringGraphType> { Name = "id", }
+      ),
+      resolve : context => {
+
+        var models = new tabelaName();
+        var id =context.GetArgument<string>("id");
+
+        return contextServiceLocator.Repository.selectOne<tabelaName> (models, id);
+      }
+    );
+
+#endregion;
+
+
+#region Listar dados de tabelaName 
+
+Field<ListGraphType<tabelaNameType>> (
+  "listtabelaName",
+    resolve : context => {
+      return contextServiceLocator.Repository.select<tabelaName> ("tabelaName");
+    }
+);
+
+#endregion;
+
+//######################################## Fim da listagem da tabela tabelaName #############################################3
+
+
+ //AppQueryFields

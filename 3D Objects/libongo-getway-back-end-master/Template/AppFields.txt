@@ -1,0 +1,25 @@
+using GraphQL.Types;
+using libongo.InMemory;
+using libongo.Models;
+
+namespace libongo.Type
+{
+  public class tabelaNameType : ObjectGraphType<tabelaName>
+  {
+    public tabelaNameType()
+    {
+         Name = "tabelaName";
+         Field(x => x.Id, nullable: true);
+         propiiiType
+    }
+  }
+   public class tabelaNameInputType: InputObjectGraphType
+    {
+        public tabelaNameInputType()
+        {
+             Name = "tabelaNameInput";
+             propinputType
+        }
+    }
+
+}

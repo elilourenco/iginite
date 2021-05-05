@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+
+
+metadata:
+  name: redist 
+  labels:  
+    name: redis-srv
+    app: my-App
+
+
+spec:
+  type: LoadBalancer
+  ports: 
+  - port: 6379
+    targetPort: 6379
+  selector: 
+    name: redis-Pod
+    app: my-App

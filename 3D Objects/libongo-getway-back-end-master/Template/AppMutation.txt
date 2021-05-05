@@ -1,0 +1,58 @@
+
+
+#region Add dados de tabelaName
+
+ Field<tabelaNameType>(
+    "addtabelaName",
+    arguments : new QueryArguments(
+    new QueryArgument<tabelaNameInputType> {Name="obj"}
+    ),
+    resolve :context =>
+    {
+        var models = context.GetArgument<tabelaName>("obj");
+        return contextServiceLocator.Repository.Add<tabelaName>(models);
+    }
+  );
+
+#endregion;
+
+#region Update Date de dados  tabelaName
+
+  Field<tabelaNameType>(
+      "updatetabelaName",
+      arguments: new QueryArguments (
+      new QueryArgument<tabelaNameInputType> {Name="obj"},
+      new QueryArgument<StringGraphType>{Name ="id"}
+          ),
+          resolve : context =>
+          {
+            var id =context.GetArgument<string>("id");
+                   
+            var model =context.GetArgument<tabelaName>("obj");
+            return contextServiceLocator.Repository.UpDate<tabelaName>(model, id);
+          }
+    );
+
+#endregion;
+
+
+#region Delete Date de dados  tabelaName
+
+Field<StringGraphType>(
+  "deletetabelaName",
+    arguments : new QueryArguments(
+    new QueryArgument<StringGraphType>{Name="id"}
+  ),
+  resolve: context =>
+  {
+    var id = context.GetArgument<string>("id");
+    contextServiceLocator.Repository.Delete("tabelaName", id);
+    return "Deletado com sucesso";
+  }
+);
+
+#endregion;
+
+//######################################## Fim do crud da tabela tabelaName #############################################3
+
+//AppMutationFields

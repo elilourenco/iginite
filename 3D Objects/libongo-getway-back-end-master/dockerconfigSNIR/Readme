@@ -1,0 +1,29 @@
+https://medium.com/xp-inc/principais-comandos-docker-f9b02e6944cd 
+
+https://docs.docker.com/compose/compose-file/compose-file-v3/#restart_policy
+
+
+
+
+docker version -> Comando para ver as inforamçõs do docker
+
+docker images -> Comando para ver todas as imagens que se encontam no nosso host
+
+docker search nome_imagen -> Comando para pesquisar uma imagem especifica
+
+docker pull nome_imagem->Comando para baixar uma nova imagem
+
+docker run nosme_imagen ou id -> Comando para correr uma imagem
+
+docker ps -> Comando para ver o estado dos meus container que estão em execuçaõ
+
+docker ps -a -> Comando para ver o estado dos meus container no geral 
+
+docker stats (id ou apelido do container) -> comando para o estatdo dum container especifico
+
+docker inspect (id da imagem ou container) -> Caso você precise de mais detalhes sobre a sua imagem ou o seu contêiner
+
+
+docker rmi (nome da imagem) -> Comando para eliminar uma imagem
+
+docker stop -> comando para parar um container 

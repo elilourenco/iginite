@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+
+namespace libongo.Controllers
+{
+  [ApiController]
+  [Route("[controller]")]
+  public class ApiNameController : ControllerBase
+  {
+   
+    private readonly ILogger<ApiNameController> _logger;
+
+    public ApiNameController(ILogger<ApiNameController> logger)
+    {
+      _logger = logger;
+    }
+
+    [HttpGet("{pathUrl}")]
+    public void Get()
+    {
+      var rng = new Random();
+      Response.Redirect("urlApplication");
+    }
+  }
+}

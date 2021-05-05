@@ -1,0 +1,14 @@
+apiVersion: v1 # -> Versão da apiVersion do kbernetes
+
+kind: Pod # -> Tipo de elemento ou objeto que estou criando
+
+metadata: # -> Especificar o tipo ser publicado 
+  name: db-redis # -> O nome do meu objecto 
+  labels: # -> Indentificador ou a forma mais eficente do kubernet identifcar o meu objecto 
+    app: my-app # -> Nome da Aplicação
+    types: database # ->
+
+spec: # -> Especificações 
+  containers: 
+    - name: ctx-db-redis # -> Nome do meu container 
+      image: redis # -> Nome da minha imagem  

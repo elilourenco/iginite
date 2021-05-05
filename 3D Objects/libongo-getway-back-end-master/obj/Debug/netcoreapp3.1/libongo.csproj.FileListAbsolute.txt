@@ -1,0 +1,330 @@
+C:\libongo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\libongo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\libongo\bin\Debug\netcoreapp3.1\Databases\DBIS_NAMES.json
+C:\libongo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\libongo\bin\Debug\netcoreapp3.1\libongo.exe
+C:\libongo\bin\Debug\netcoreapp3.1\libongo.deps.json
+C:\libongo\bin\Debug\netcoreapp3.1\libongo.runtimeconfig.json
+C:\libongo\bin\Debug\netcoreapp3.1\libongo.runtimeconfig.dev.json
+C:\libongo\bin\Debug\netcoreapp3.1\libongo.dll
+C:\libongo\bin\Debug\netcoreapp3.1\libongo.pdb
+C:\libongo\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphiQL.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Client.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GreenDonut.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Execution.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Fetching.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Language.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Language.SyntaxTree.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Language.Utf8.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Language.Visitors.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.InMemory.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Types.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.Introspection.dll
+C:\libongo\bin\Debug\netcoreapp3.1\HotChocolate.Validation.dll
+C:\libongo\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\libongo\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\libongo\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\libongo\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\libongo\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\libongo\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\libongo\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\libongo\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\libongo\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\libongo\bin\Debug\netcoreapp3.1\ServiceStack.Redis.dll
+C:\libongo\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\libongo\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\debian9-librdkafka.so
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\libongo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Device.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\libongo\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.AssemblyInfoInputs.cache
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.AssemblyInfo.cs
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.csproj.CoreCompileInputs.cache
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.MvcApplicationPartsAssemblyInfo.cache
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.RazorTargetAssemblyInfo.cache
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.csproj.CopyComplete
+C:\libongo\obj\Debug\netcoreapp3.1\staticwebassets\libongo.StaticWebAssets.Manifest.cache
+C:\libongo\obj\Debug\netcoreapp3.1\staticwebassets\libongo.StaticWebAssets.xml
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.dll
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.pdb
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.genruntimeconfig.cache
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.GraphiQL.dll
+C:\libongo\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\libongo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\libongo\obj\Debug\netcoreapp3.1\libongo.csprojAssemblyReference.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Databases\DBIS_NAMES.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongoApi\web.config
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongoApi\appsettings.Development.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongoApi\appsettings.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongoApi\Databases\DBIS_NAMES.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongoApi\libongo.deps.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongoApi\libongo.runtimeconfig.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongo.exe
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongo.deps.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongo.runtimeconfig.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongo.runtimeconfig.dev.json
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongo.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\libongo.pdb
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphiQL.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Client.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.GraphiQL.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\GreenDonut.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Execution.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Fetching.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Language.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Language.SyntaxTree.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Language.Utf8.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Language.Visitors.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Types.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.Introspection.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\HotChocolate.Validation.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\ServiceStack.Redis.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\debian9-librdkafka.so
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Device.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.csprojAssemblyReference.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.AssemblyInfoInputs.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.AssemblyInfo.cs
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.csproj.CoreCompileInputs.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.RazorTargetAssemblyInfo.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.csproj.CopyComplete
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\staticwebassets\libongo.StaticWebAssets.Manifest.cache
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\staticwebassets\libongo.StaticWebAssets.xml
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.dll
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.pdb
+C:\Users\hp\3D Objects\libongo-getway-back-end-master\obj\Debug\netcoreapp3.1\libongo.genruntimeconfig.cache

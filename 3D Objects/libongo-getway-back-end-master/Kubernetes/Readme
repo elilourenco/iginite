@@ -1,0 +1,30 @@
+https://www.youtube.com/watch?v=cgYOpw5XLtk
+
+kubectl config current-context
+
+kubectl get nodes
+
+Pods->Local onde serão armazenado todos os meus container 
+
+kubectl create -f _nome do ficheiro yml -> Comando para rodar as configuração do ficheiro yml
+
+kubectl get pods ->Listar todos os meus Pods
+
+kubectl get all ->Listar todos os meus Pods
+
+kubectl delet pod nome_pod -> Comando para eliminar um pod especifico
+
+ReplicaSet->Local onde serão armazenado todos os meus Pods
+
+kubectl get replicaset -> Comando para listar todos os meus replicaset
+
+kubectl delet replicaset nome_replicaset -> Comando para eliminar um replicaset especifico
+
+kubectl delet replicasets --all ->Elimina tos os meus replicaset existente no meu host
+
+kubectl delete services --all -> Eliminar tos os services do meu host 
+
+
+kubectl proxy -> pegar o Proxy do dashboard do kubernetes
+
+pegar o token do dashboard do kubernetes -> kubectl -n kubernetes-dashboard get secret $(kubectl -n kubernetes-dashboard get sa/admin-user -o jsonpath="{.secrets[0].name}") -o go-template="{{.data.token | base64decode}}"

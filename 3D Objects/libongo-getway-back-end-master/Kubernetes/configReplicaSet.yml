@@ -1,0 +1,28 @@
+apiVersion: apps/v1 
+kind: ReplicaSet
+
+
+metadata:
+  name: my-replicatest 
+  labels:  
+    app: myApp 
+    types: database 
+
+
+spec: # -> Especificações 
+    template:
+        metadata:
+          name: mypod
+          labels:
+            app: myApp
+            type: database
+        spec:
+          containers: 
+            - name: ctx-db-redis # -> Nome do meu container 
+              image: redis # -> Nome da minha imagem  
+
+  
+    replicas: 3
+    selector:
+      matchLabels:
+        type: database
